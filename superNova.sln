@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1373715F-6FD5-C778-1C42-3522A9130AD4}") = "superNova", "Assembly-CSharp-firstpass.csproj", "{E90B5309-C120-CD55-7634-826205E48136}"
+EndProject
+Project("{1373715F-6FD5-C778-1C42-3522A9130AD4}") = "superNova", "Assembly-CSharp.csproj", "{BDDA3CE8-7ED4-0963-7FBB-AC0A5DC1F9A6}"
+EndProject
+Project("{1373715F-6FD5-C778-1C42-3522A9130AD4}") = "superNova", "Assembly-CSharp-Editor.csproj", "{6E455318-C958-70A5-68BA-831106FCACEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90B5309-C120-CD55-7634-826205E48136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90B5309-C120-CD55-7634-826205E48136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90B5309-C120-CD55-7634-826205E48136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90B5309-C120-CD55-7634-826205E48136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDA3CE8-7ED4-0963-7FBB-AC0A5DC1F9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDA3CE8-7ED4-0963-7FBB-AC0A5DC1F9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDA3CE8-7ED4-0963-7FBB-AC0A5DC1F9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDA3CE8-7ED4-0963-7FBB-AC0A5DC1F9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E455318-C958-70A5-68BA-831106FCACEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E455318-C958-70A5-68BA-831106FCACEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E455318-C958-70A5-68BA-831106FCACEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E455318-C958-70A5-68BA-831106FCACEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
